@@ -1,4 +1,4 @@
-#  IRIS Flower Classification 
+# 🌸 IRIS Flower Classification 🌿  
 *A machine learning model to classify Iris flowers into three species using Random Forest.*  
 
 ## 📌 Project Overview  
@@ -66,8 +66,8 @@ The dataset includes **sepal & petal length/width measurements**, and the goal i
 ---
 
 ## 📂 Dataset  
-- The dataset (`IRIS.csv`) is included in the repository.  
-- **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)  
+- The dataset used in this project is from **Kaggle**:  
+  **[Iris Flower Dataset – Kaggle](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)**  
 
 ---
 
@@ -75,4 +75,5 @@ The dataset includes **sepal & petal length/width measurements**, and the goal i
 1. **Clone the repository:**  
    ```bash
    git clone https://github.com/your-username/IRIS_Flower_Classification.git
+
 
