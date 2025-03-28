@@ -1,6 +1,4 @@
-# IRIS_Flower_Classification
-"A machine learning model to classify Iris flowers into three species using Random Forest."
-# 🌸 IRIS Flower Classification 🌿  
+#  IRIS Flower Classification 🌿 
 *A machine learning model to classify Iris flowers into three species using Random Forest.*  
 
 ## 📌 Project Overview  
